@@ -1,5 +1,4 @@
 import React from 'react';
-import * as buffer from "buffer";
 
 const Button = ({label, iconURL}) => {
     return (
