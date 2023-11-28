@@ -24,13 +24,13 @@ const SpecialOffer = () => {
                     nothing short of exceptional.
                 </p>
                 <div className="mt-11 flex flex-wrap gap-4">
-                    <Button label="Shop Now" iconURL={arrowRight}/>
+                    <Button label="Shop Now" iconURL={arrowRight} backgroundColor={null} textColor={null}
+                            borderColor={null}/>
                     <Button
                         label='Learn more'
                         backgroundColor='bg-white'
                         borderColor='border-slate-gray'
-                        textColor='text-slate-gray'
-                    />
+                        textColor='text-slate-gray' iconURL={null}                    />
 
                 </div>
             </div>
