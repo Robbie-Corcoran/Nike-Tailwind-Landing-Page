@@ -1,6 +1,7 @@
-# Tailwind Nike Site - TypeScript, React, Tailwind
+# [Nike - Tailwind Landing Page - TypeScript, React, Tailwind](https://nike-tailwind-landing-page.vercel.app/)
 
-Welcome to my quick Nike Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.
+
+Welcome to my quick Nike Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.	Welcome to my simple and attractive Nike - Tailwind Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.
 
 ## Project Overview
 
@@ -14,7 +15,7 @@ This project replicates the design and functionality of a Nike landing page usin
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/Robbie-Corcoran/Tailwind-Nike-Site.git`
+1. Clone the repository: `git clone https://github.com/Robbie-Corcoran/Nike-Tailwind-Landing-Page.git`
 2. Navigate to the project folder: `cd tailwind-nike-landing-page`
 3. Install dependencies: `npm install` or `npm i`
 4. Start the development server: `npm start` or `npm run dev`
