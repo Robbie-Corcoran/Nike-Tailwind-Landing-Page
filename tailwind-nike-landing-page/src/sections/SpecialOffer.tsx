@@ -30,7 +30,8 @@ const SpecialOffer = () => {
                         label='Learn more'
                         backgroundColor='bg-white'
                         borderColor='border-slate-gray'
-                        textColor='text-slate-gray' iconURL={null}                    />
+                        textColor='text-slate-gray'
+                        iconURL={null}                    />
 
                 </div>
             </div>
