@@ -1,6 +1,6 @@
-# Tailwind Nike Site - TypeScript, React, Tailwind
+# [Nike - Tailwind Landing Page - TypeScript, React, Tailwind](https://nike-tailwind-landing-page.vercel.app/)
 
-Welcome to my quick Nike Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.
+Welcome to my simple and attractive Nike - Tailwind Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.
 
 ## Project Overview
 
