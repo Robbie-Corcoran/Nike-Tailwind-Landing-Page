@@ -3,7 +3,9 @@
 
 Welcome to my quick Nike Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.	Welcome to my simple and attractive Nike - Tailwind Landing Page project, designed for educational purposes to showcase the integration of TypeScript, React, and Tailwind CSS for building a modern and responsive web page.
 
-![landing-page-screenshot.png](nike-tailwind-landing-page%2Fsrc%2Fassets%2Fimages%2Flanding-page-screenshot.png)
+<p align="center" >
+    <img align="center" src="https://raw.githubusercontent.com/Robbie-Corcoran/Nike-Tailwind-Landing-Page/main/nike-tailwind-landing-page/src/assets/images/landing-page-screenshot.png">
+</p>
 
 ## Project Overview
 
@@ -13,7 +15,10 @@ This project replicates the design and functionality of a Nike landing page usin
 
 Using Tailwind made it effortless to create a fully responsive layout that is visually appealing and intuitive no matter the screen size.
 
-![popular-products-screenshot.png](nike-tailwind-landing-page%2Fsrc%2Fassets%2Fimages%2Fpopular-products-screenshot.png)
+<p align="center" >
+    <img src="https://raw.githubusercontent.com/Robbie-Corcoran/Nike-Tailwind-Landing-Page/main/nike-tailwind-landing-page/src/assets/images/popular-products-screenshot.png">
+</p>
+
 
 ## Features
 
@@ -21,7 +26,9 @@ Using Tailwind made it effortless to create a fully responsive layout that is vi
 - **React Components:** Build reusable and interactive UI components using React for a dynamic user experience.
 - **Tailwind CSS:** Utilize the utility-first CSS framework to style components and create a visually appealing layout.
 
-![special-offer-screenshot.png](nike-tailwind-landing-page%2Fsrc%2Fassets%2Fimages%2Fspecial-offer-screenshot.png)
+<p align="center" >
+    <img src="https://raw.githubusercontent.com/Robbie-Corcoran/Nike-Tailwind-Landing-Page/main/nike-tailwind-landing-page/src/assets/images/special-offer-screenshot.png">
+</p>
 
 ## Getting Started
 
