@@ -31,7 +31,7 @@ const SpecialOffer = () => {
                         backgroundColor='bg-white'
                         borderColor='border-slate-gray'
                         textColor='text-slate-gray'
-                        iconURL={null}                    />
+                        iconURL={null}/>
 
                 </div>
             </div>
