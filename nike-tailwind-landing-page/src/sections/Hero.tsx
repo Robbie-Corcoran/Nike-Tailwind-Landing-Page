@@ -1,10 +1,9 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Button from "../components/Button";
 import ShoeCard from "../components/ShoeCard";
 import {arrowRight} from "../assets/icons"
-import {statistics, shoes} from "../constants";
-import { bigShoe1 } from "../assets/images"
-import {useState} from "react";
+import {shoes, statistics} from "../constants";
+import {bigShoe1} from "../assets/images"
 
 const Hero = () => {
 

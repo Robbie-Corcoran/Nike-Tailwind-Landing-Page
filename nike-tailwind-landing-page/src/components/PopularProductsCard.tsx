@@ -1,6 +1,5 @@
 import React from 'react';
 import {star} from "../assets/icons";
-import {products} from "../constants";
 
 const PopularProductsCard = ({imgURL, name, price, rating}) => {
     return (

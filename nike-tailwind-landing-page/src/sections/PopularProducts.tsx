@@ -1,5 +1,5 @@
 import React from 'react';
-import { products } from "../constants";
+import {products} from "../constants";
 import PopularProductsCard from "../components/PopularProductsCard";
 
 const PopularProducts = () => {
