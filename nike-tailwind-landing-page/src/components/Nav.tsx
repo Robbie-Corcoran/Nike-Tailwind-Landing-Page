@@ -18,7 +18,6 @@ const Nav = () => {
                         </li>
                     ))}
                 </ul>
-                {/*TODO: Add logic to hamburger menu.*/}
                 <menu>
                     <img src={hamburger} alt="hamburger" width={25} height={25} className="hidden max-lg:block"/>
                 </menu>
